@@ -38,7 +38,7 @@ const Products = () => {
         newParams.set("category", category.trim());
       }
 
-      if (rating?.trim()) {
+      if (rating?.trim() && rating !== ">0") {
         newParams.set("rating", rating);
       }
 
@@ -46,7 +46,7 @@ const Products = () => {
         newParams.set("sort", sort);
       }
 
-      if (price.trim()) {
+      if (price.trim() && price !== ">0") {
         newParams.set("price", price);
       }
 
