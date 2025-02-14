@@ -1,4 +1,5 @@
 # Product Filter React App
+## Live Demo: https://product-filter-frontend.vercel.app
 
 ## Overview
 
@@ -81,7 +82,4 @@ This URL will show products with the name "laptop" in the "electronics" category
 
 - **Abdessamad** - Developer and maintainer
 
----
-
-You can design this content into a visually appealing README using **Canva**, by using simple, clean design elements and icons related to products, filtering, and pagination.
 
